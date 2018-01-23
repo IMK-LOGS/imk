@@ -1,0 +1,999 @@
+IMK insert log
+
+
+15Jan17  ZONDA MR on business HP
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'ZondaCampaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-15 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 430
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (262, 430, 'GH', 0, 0, 'F', '2017-01-15', '2017-02-14', '2017-01-15 10:03:31', 'A', 0);
+id: 711
+
+18Jan17  Adsense Removal from mobile FOOTER NEWS  - GH only
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-18 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 431
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (145, 431, 'GH', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-18 10:03:31', 'A', 0);
+id: 712   for NEWS section GH
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (315, 431, 'GH', 0, 0, 'F', '2017-01-19', '2017-12-31', '2017-12-31 10:03:31', 'A', 0);
+id: 712 till 716 for other section footers
+
+
+19Jan17  Adsense Removal from main sportspage SS #24
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-19 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 432
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (24, 432, 'WW', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-18 10:03:31', 'A', 0);
+id: 712   for NEWS section GH
+
+22Jan17  Adsense Removal from GHANA sportssection units #22, 29, 30 
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-22 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 433
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (22, 433, 'GH', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-22 10:03:31', 'A', 0);# 1 row affected.
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (29, 433, 'GH', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-22 10:03:31', 'A', 0);# 1 row affected.
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (30, 433, 'GH', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-22 10:03:31', 'A', 0);# 1 row affected.
+id: 718 till 720  
+
+
+22Jan17  Adsense Removal GHANA geo from main Business page MR #34
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-22 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 434
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (34, 434, 'GH', 0, 0, 'F', '2017-01-18', '2017-12-31', '2017-01-22 10:03:31', 'A', 0);# 1 row affected.
+id: 721
+
+23Jan17  Direct adsense Top Mobile Leaderboard 317
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-23 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 435
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (317, 435, 'WW', 0, 0, 'F', '2017-01-21', '2017-12-31', '2017-01-23 10:03:31', 'A', 0);# 1 row affected.
+id: 722
+
+06Feb17  Mob News Unit B 142
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, ' ', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-01-15 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 436
+id: 723  (GH, unit 142)
+
+07Feb17  Mob HP Unit B 
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'remove_adsense', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-02-07 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 437
+id: 724  (GH, unit 193)
+
+07Feb17  Mob Sport Unit B
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'remove_adsense', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-02-07 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 438
+id: 726  (GH, unit 237)
+
+07Feb17  Mob Entertainment Unit B
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'remove_adsense', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-02-07 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 439
+id: 727  (GH, unit 225)
+
+07Feb17  tbd 
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'foam', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-02-07 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 440
+
+07Feb17  News Main fixed small lb 14 
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'remove_adsense', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-02-07 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+id: 441 
+
+28Feb17  FOAM takeover  N13 GH
+id: 442
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (13, 442, 'GH', 0, 0, 'F', '2017-01-28', '2017-07-31', '2017-01-28 10:03:31', 'A', 0);
+id: 729  (GH, unit 13)
+id: 1034	Mob TO 316
+
+01Mar17  WorldRemit takeovers 
+id: 443  IO
+id: 730  Ad takeover 1 WW
+id: 731  Ad mob.takeover 316 WW
+
+08Mar17 WorldRemit Top mobile leaderboard 317
+id: 444  IO
+id: 732  mobiel LB GH
+
+09Mar17 Electroland Top takeovers
+id: 445  IO
+id: 733 takeover 1 GH
+id: 734 mob.takeover 316 GH
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (316, 445, 'GH', 0, 0, 'F', '2017-03-09', '2017-03-30', '2017-03-09 10:03:31', 'A', 0);
+
+23Mar17 Murphy newspage widget
+id: 446  IO
+id: 735 Ad   (WW  395 widget)  (note 3 may,  was changed to 14)
+id: 968 Widget n123
+id: 1073 Widget n11
+
+29Mar17 Hospital Takeover mobile
+id: 447 IO
+id: 736 AD takover mob 316
+
+03Mar17 Beige newspage takeover
+id: 448 IO
+id: 737 AD takeover news 12
+
+10Mar17 Unique Floral takeover
+id: 449 IO
+id: 738 AD takeover hp 1
+
+18Apr17  StarTimes
+id: 450 IO
+id: 739 Desktop HP TO 1  =>21
+id: 740 Mobile TO 316
+
+18Apr17 Stanbic
+id: 451 IO
+id: 741 News 12
+id: 745 HP TO 1
+
+18Apr17  Tsuianaa
+id: 452 IO
+id: 742  Mobile TO 316
+
+18Apr17  Moneygram
+id: 453 IO
+id: 743  DesktHP TO 1
+id: 744  Mobile TO 316
+id: 751  Newspage TO 12
+
+25Apr17  Devtraco TO
+id: 454 IO
+id:  750 DesktopHP TO 1
+
+26Apr17  Kasapreko 
+id: 455 IO
+id: 746 Ad  DesktopNews TO 12
+id: 760 Ad  MobTO 316
+id: 819 Ad  HP 1
+
+26Apr17  CTW
+id: 456 IO
+id: 747 DesktopBusiness TO 32
+id: 748  Desktop 1 changed 12
+
+26Apr17  Devtraco Widget
+id: 457 IO
+id: 752  DesktopNews TO 171 WW
+id: 814  DesktopNews TO 123
+
+02May17   Rana Motors
+id:  458 IO
+id:  753 Ad HP 1  (hours deleted so far)
+
+02May17  TheGhanaAdvertiser
+id: 459  IO
+id:  754 Ad HP 1
+id:  755 Ad MobTO 316
+
+02May17  Globe Production  
+id: 460  IO
+id: 756  Ad  EntertTO 316??
+
+09May17  Societe Generale
+id: 461 IO
+id: 757  Mobile TO 316
+id:  758 DesktopNews TO 12
+id: 759 Business TO 32
+id:  762 DesktopHP TO 1
+
+14May17 Societe Generale  Per ongeluk Dubbel
+id: 462 IO
+id:  763 DesktopNews TO 1
+id:  764 DesktopNews TO 12
+id:  765 DesktopNews TO 316
+id:  766 DesktopNews TO 32
+
+14May17 LG
+id: 463 IO
+id: 761 DesktopBusiness TO 32
+
+14May17 CEO summit
+id: 464 IO
+id: 767 DesktopBusiness TO 32
+id: 768 News TO 12
+id: 769 News TO HP
+id: 770 News TO Mobile  
+
+Vodafone
+id: 465 IO
+id: 771 Entertainment TO 41
+id: 773 HP TO 1
+
+Compugahana
+id: 466 IO
+id: 772 HP TO 1
+
+1xbet
+id: 467 IO
+id: 774 Sport TO 21
+
+MeQasa
+id: 468 IO
+id: 775 HP TO 1
+id: 787 News TO 12
+
+Tender
+id: 470 IO
+id: 781 News TO 12
+id: 797 Mobile TO 316
+
+Xodus  40under40
+id: 471 IO
+id: 782 Mobile TO 316
+id: 783 Entertainment TO 41
+id: 789 HP TO 1
+id: 818 Bus TO 32
+id: 833 News TO 12
+id: 929 Ent NEW TO 41
+id: 1016 Sport New TO 21
+id: 1175 Opinions New to 62
+
+Newmont 
+id: 472 IO
+id: 784 News TO 12
+
+Free Predicts 
+id: 473 IO
+id: 785 MobTO 316
+
+Grace Festival
+id: 474 IO
+id: 786 MobTO 316.
+
+UCC Alumni
+id: 475 IO
+id: 788 HP 1
+
+GhanaWeb Youtube
+id: 476 IO
+id: 790 News 12
+id: 792 MobTO 316
+id: 795 Entertainment TO 41
+id: 796 News left 123
+id: 798 HP 1
+id: 1172 World 51
+id: 1233 Opinion 62
+id: 1425 Sport TO 21
+id: 1587 Bus TO 32
+
+Cheki
+id: 477 IO
+id: 791 Widget 395
+
+Ayarisa
+id: 478 IO
+id: 793 News 12
+
+Fanmaxx
+id: 479 IO
+id: 794 HP 1  
+
+Ayi Mensah
+id: 480 IO
+id: 799 HP 1
+id: 800 News 12
+id: 805 Business 32
+
+Stanbic
+id: 482 IO
+id: 802 News 12
+id: 804 HP 1
+
+Beige
+id: 481 IO
+id: 801 NEWS 12
+id: 803 Business 32
+
+Inkit
+id: 483 IO
+id: 806 Business 32
+id: 810 News 12
+id: 821 HP 1
+id: 1043 Sport 21
+id: 1145 World 51
+
+Moneygram 
+id: 484 IO
+id: 807 mobTO 316
+id: 812 News 12
+
+Bedbug inesfly
+id: 485 IO
+id: 808 HP 1
+id: 884 News 12
+id: 932 mobTO 316
+id: 998 Ent TO 41
+
+Fidelity
+id: 486 IO
+id: 809 News 12
+id: 832 mobTO 316
+id: 861 HP 1 
+
+Airtel
+id: 487 IO
+id: 811 Business 32
+id: 823 Ent 41
+
+Appolonia
+id: 488 IO
+id: 813 news widget right 171 WW
+id: 820 HP TO 1 
+id: 822 Business TO 32 
+id: 845 NEWS TO 12 
+id: 846 Enter TO 41
+
+CIMG
+id: 489 IO
+id: 815 mobTO 316
+id: 816 HP 1
+id: 824 mobTO 316 Marketing
+id: 825 mobTO 316 Fierce
+id: 826 bus 32 Marketing
+id: 834 News 12 Marketing
+id: 835 HP 1 Marketing
+
+NatScQuiz
+id: 490 IO
+id: 817 Entert 41
+
+AFB
+id: 491 IO
+id: 827 bus 32 
+id: 879 Mob BtS 316 
+id: 894 News BtS 12
+
+Project 100
+id: 492 IO
+id: 828 Entert 41
+id: 839 HP 1
+id: 843 Bus 
+id: 847 Ent 41
+id: 962 Sports TO 21
+
+Hayton
+id: 493 IO
+id: 829 BusinessWidg 35 till 8th oct17
+id: 831 World 51
+id: 836 Entertainment TO 41
+id: 854 News 12
+id: 859 Bus TO 32
+id: 935 HP TO 1
+id: 1019 Sports TO 21
+
+Shell Vivo
+id: 494 IO
+id: 830 HP 1
+id: 842 News 12
+
+MediMoses
+id: 495 IO
+id: 838 HP Widget 5  
+
+Airshow
+id: 496 IO
+id: 840 Entertainment TO 41
+id: 853 mob TO 316
+id: 866 Bus TO 32
+id: 897 HP TO 1
+id: 1368 Sports TO 21
+
+Coconut grove 
+id: 497 IO
+id: 841 Bus TO 32
+
+Fanmaxx
+id: 498 IO
+id: 844 HP 1
+
+GCC Maiden
+id: 499 IO
+id: 848 Bus TO 32
+id: 857 mob TO 316
+id: 858 News 12
+id: 1022 Opinion 62 temp creative
+id: 1067 HP 1
+id: 1133 Sports 21
+id: 1527 Ent TO 41
+
+
+Theads DirectCode
+id: 500 IO
+id: 849 MobNews MR 342
+
+Corporate Wednesdays
+id: 502 IO
+id: 855 Ent 41
+id: 856 Sport 21
+
+Ghana OpenX removal 
+from old:  sport = 718/719/720
+then
+id: 503 IO
+id: 862 Ent 224 GH
+id: 863 Sport 236 GH
+ 	
+Nokia
+id: 504 IO
+id: 864 mob TO 316
+id: 865 Bus TO 32
+id: 867 Ent TO 41
+id: 872 HP TO 1
+
+CalBank
+id: 505 IO
+id: 868 HP TO 1
+id: 869 News TO 12
+id: 871 Bus TO 32
+
+Accessbank
+id: 506 IO
+id: 870 Bus TO 32
+
+BankInsurranceFair
+id: 507 IO
+id: 873 World TO 51
+id: 876 Ent TO 41
+
+ZoomLion
+id: 508 IO
+id: 874 mob TO 316
+id: 880 Ent TO 41
+id: 881 HP TO 1
+id: 899 News TO 12
+id: 881 Opinion TO 62
+
+Azugu
+id: 509 IO
+id: 875 Bus TO 32
+id: 898 mob TO 316
+
+Kasapreko Aug17
+id: 510 IO
+id: 878 HP  TO 1
+id: 905 Mob TO 316
+id: 941 News TO 12
+id: 1088 Sport TO 21
+
+ChaleWote 
+id: 511 IO
+id: 882 Ent TO 41
+id: 883 HP TO 1
+id: 902 News TO 12
+
+NatPolSummit
+id: 513 IO
+id: 885 News TO 12
+id: 891 Ent TO 41
+id: 898 mob TO 316
+
+HR Focus
+id: 516 IO
+id: 888 Bus TO 32
+id: 900 Ent TO 41
+id: 917 mob TO 316
+id: 1070 Opinion TO 61
+
+FirstNatBank
+id: 519 IO
+id: 896 Bus TO 32
+id: 901 mob TO 316
+id: 911 HP TO 1
+id: 953 Ent TO 41
+id: 1013 News TO 12
+
+GhanaBookFair
+id: 521 IO
+id: 908 Ent TO 41
+id: 914 mob TO 316
+id: 920 Bus TO 32
+
+Security Warehouse
+id: 524 IO
+id: 965 Widget TO b120
+id: 1455 Widget TO n150
+id: 923 HP TO 1
+id: 971 World TO 51
+id: 974 News TO 12
+id: 977 Bus TO 32
+id: 983 Ent TO 41
+id: 992 Sport TO 21
+id: 1010 mob TO 316
+id: 1142 Opinion TO 62
+
+Business Awards
+id: 527 IO
+id: 938 Sport TO 21
+id: 959 Bus TO 32
+
+Societe Generale
+id: 530 IO
+id: 956 HP TO 1
+id: 989 Mob TO 316
+id: 995 1031 Bus TO 32
+id: 1103 Ent TO 41
+
+CybrSecurity
+id: 533 IO
+id: 980 Bus TO 32
+id: 1130 Mobile TO 316
+
+Basketball
+id: 536 IO
+id: 1004 SportWidget TO 25  2year
+
+Devtraco Aug17
+id: 539 IO
+id: 1007 Bus TO 32
+id: 1046 News TO 12
+id: 1127 HP TO 1
+
+RiteSports TertiaryFL 
+id: 542 IO
+id: 1025 Sport TO 21
+id: 1097 Mob TO 316
+
+TechnoGhana
+id: 545 IO
+id: 1037 Bus TO 32
+id: 1085 News TO 12
+
+BubbleCup
+id: 548
+id: 1040 Ent TO 41
+id: 1058 News TO 12
+id: 1157 Opinion TO 62
+id: 1169 Mob TO 316
+
+CIMG
+id: 551
+id: 1049 Bus TO 32
+id: 1052 Ent TO 41
+id: 1061 Mob TO 316
+id: 1064 News TO 12
+id: 1076 World TO 51
+id: 1151 HP TO 1
+id: 1242 Sport TO new
+id: 1374 Opinion TO 62
+
+Buildaf
+id: 554
+id: 1079 HP TO 1
+
+Afrikan Legends
+id: 557
+id: 1082 Ent TO 41
+id: 1100 News TO 12
+id: 1160 HP TO 1
+id: 1184 Mob TO 1
+
+TajFilm
+id: 560
+id: 1091 Ent TO 41
+id: 1094 HP TO 1
+id: 1112 Sports TO 21
+
+Energy Awards
+id: 563
+id: 1109 HP to 1
+id: 1139 Mob TO 316
+id: 1488 Bus TO 32
+
+Energy Commission 
+id: 569
+id: 1118 News TO 12
+id: 1254 HP TO 1
+
+Trellidor
+id: 566
+id: 1115 Bus TO 32
+id: 1584 HP TO 1
+id: 1716 News TO 12
+
+AFB sep17 
+id: 572
+id: 1124 Bus to 32
+id: 1154 News TO 12
+
+Webster Univeristy
+id: 575
+id: 1136 Bus TO 32
+id: 1383 Mob TO 316
+
+Murphy homes Sep17
+id: 578
+id: 1148 Bus TO 32
+id: 1199 HP to 1 WW
+
+Newmont Sep17
+id: 581
+id: 1163 News TO 12
+id: 1181 Bus TO 32 WW
+
+Awake
+id: 584
+id: 1166 HP to 1
+
+ChiefExecNetwork
+id: 587
+id: 1190 Ent to 41
+id: 1205 News TO 12
+id: 1260 Bus to 32
+id: 1350 Sport TO 21
+id: 1410 Mobile TO 316
+id: 1422 HP TO 1
+
+Greda
+id: 590
+id: 1214 World TO 51 WW
+id: 1217 Opinion TO 62 WW
+id: 1220 Sport TO 21 WW
+id: 1223 HP TO 1 WW
+id: 1226 Bus TO 32 WW
+id: 1245 Ent to 41
+
+GCB
+id: 593
+id: 1202 Mob TO 316
+id: 1266 HP TO 1
+id: 1260 Bus TO 32
+id: 1365 News TO 12
+
+Gassafe Oct17
+id: 596
+id: 1208 Ent TO 41
+id: 1320 Mob TO 316
+
+Electroland
+id: 599
+id: 1211 Ent TO 41 allureP
+id: 1230 Mob TO 316
+id: 1308 News TO 12 allureP
+id: 1332 News TO 12 allure-
+id: 1344 HP TO 1 allureP
+id: 1380 HP TO 1 allure-
+id: 1593 Ent TO 41 allure-
+
+Vodafone
+id: 600
+id: 1227 HP TO 1
+id: 1239 Mob TO 316
+id: 1251 News TO 12
+
+Kente Festival
+id: 603
+id: 1272 Ent TO 41
+id: 1305 HP TO 1
+
+The Greens
+id: 606
+id: 1257 Widget/fixed 5
+id: 1329 Mob TO 316
+id: 1449 News TO 12 WW
+id: 1521 HP TO 1
+id: 1671 Ent 41 WW
+
+Xodus AutoShow
+id: 609
+id: 1263 Ent TO 41
+id: 1275 News TO 12
+id: 1281 Mob TO 316
+id: 1299 Bus TO 32
+id: 1284 HP TO 1
+id: 1314 Sport TO 21
+
+Menzgold Old
+id: 612
+id: 1269 Mob TO 316
+id: 1302 Ent TO 41
+id: 1323 News TO 12
+id: 1377 Bus TO 32
+
+Uber
+id: 615
+id: 1278 Mob TO 316
+
+ICEF elecfair
+id: 618
+id: 1287 Bus TO 32
+id: 1311 Sport TO 21
+id: 1398 News TO 12
+id: 1419 Mob TO 316
+id: 1542 Ent TO 41
+
+GFSports
+id: 621
+id: 1290 Sport TO 21
+
+Devtraco Widget Oct17
+id: 624
+id: 1326  Widgetnews 171
+
+FortuneCIty Widget
+id: 627
+id: 1338 FlexiNewsWidget 429
+id: 1653 Widget 11 GH
+id: 1656 Widget 123 WW
+
+Stanbic Jazz
+id: 630
+id: 1341 Ent TO 41
+id: 1389 HP TO 1
+id: 1401 News TO 12
+
+Kaya Tours
+id: 633
+id: 1347 Opinion TO 62
+id: 1353 Bus TO 32
+id: 1371 HP TO 1
+id: 1386 Ent TO 41
+id: 1440 News TO 12
+
+FortuneCity takeovers
+id: 636
+id: 1356 News TO 12 WW
+id: 1404 World TO 51 WW
+id: 1428 HP TO 1 WW
+id: 1506 Bus TO 32 WW
+id: 1520 Ent TO 32 WW
+id: 1689 Sports TO 21 WW
+id: 1794 Mob TO 41 WW no creative yet
+
+Vidmatic
+id: 639
+id: 1359  Vidmatic video 401
+
+BuenaVista
+id: 642
+id: 1395 Bus TO 32 WW
+id: 1434 News TO 12 WW
+id: 1461 Mob TO 316
+
+GhanaPost
+id: 645
+id: 1392 Mob TO 316
+
+Chrisvicmall
+id: 648
+id: 1407 Bus TO 32
+id: 1482 HP TO 1
+
+Kojach 
+id: 651
+id: 1431 HP TO 1  Procold
+id: 1446 News TO 12 Kojach
+id: 1452 Ent TO 41 Kojach
+id: 1464 Bus TO 32 Kojach
+id: 1479 News TO 12 Procold
+id: 1509 Mob TO 316 Kojach
+id: 1536 Mob TO 316 Procold
+id: 1707 Sports TO 21 Kojach
+
+GIMPA SOTdean
+id: 654
+id: 1437 News TO 12 
+
+GN
+id: 657
+id: 1443 Ent TO 41 FDmob
+id: 1458 Bus TO 32 PayGlobal
+id: 1539 Mob TO 316 PayGlobal
+id: 1686 Mob TO 316 FDmob
+id: 1785 HP TO 1 PayGlobal
+id: 1878 E TO  E41 PayGlobal
+
+GRA 
+id: 660
+id: 1470 News TO 12 
+id: 1476 Mob TO 316
+id: 1524 Sport TO 21
+id: 1533 HP TO 1
+id: 1596 Ent TO 41 free SSH
+id: 1659 Bus TO 32 free SSH
+
+Payrol
+id: 663
+id: 1467 Bus TO 32
+
+TigoAirtel
+id: 666
+id: 1473 Ent TO 41
+
+Krif
+id: 669
+id: 1491 News TO 12 
+id: 1494 HP TO 1
+id: 1515 Bus TO 32
+
+Menzgold Nov17
+id: 672
+id: 1497 Bus TO 32
+id: 1599 Mob TO 316
+
+Compughana Nov17
+id: 675
+id: 1500 News TO 12 
+id: 1713 HP  1
+id: 1743 Mob TO 316
+
+HOM
+id: 678	
+id: 1503 Ent TO 41
+id: 1578 News TO 12
+id: 1611 Sports TO 21
+
+GHclub100 
+id: 681	
+id: 1512 HP TO 1
+id: 1518 Ent TO 41
+id: 1545 News TO 12 
+
+ENI
+id: 684	
+id: 1530 Mob TO 316
+
+GlobalTrackers
+id: 687
+id: 1548 Sport TO 21
+id: 1569 Bus TO 32
+id: 1641 HP TO 1
+id: 1767 News TO 12
+id: 1797 Ent TO 41
+
+Somotex
+id: 693 IO
+id: 1551 Ent TO 41
+id: 1572 HP TO 1
+id: 1644 News TO 12
+id: 1647 mob TO 316
+
+MTN
+id: 696 IO
+id: 1566 Mob TO 316
+id: 1617 News TO 12
+id: 1674 Ent TO 41
+id: 1761 HP TO 1
+
+Be Forward
+id: 699 IO
+id: 1581 News TO 12
+id: 1602 Ent TO 41
+id: 1614 HP TO 1
+id: 1782 Mob TO 316
+id: 1863 Desktop TO B32
+
+IEA
+id: 702 IO
+id: 1590 HP TO 1
+
+TeadsTV dec17
+id:  705 IO
+id: 1605  mobnews 141
+id: 1608 desktopnews 18
+
+Ato Kwame Dadzie
+id: 708 IO
+id: 1650 HP TO 1	
+id: 1692 Ent TO 41
+id: 1698 mob TO 316
+id: 1731 Opinions TO 62
+id: 1776 Bus 32
+id: 1818 Sports TO 21
+id: 1845 News TO 12
+
+Hypenet
+id: 711 IO
+id: 1662 Ent TO 41
+
+MorganTouch 
+id: 714 IO
+id: 1665 Mob TO 316
+
+Hayton dec17
+id: 717 IO
+id: 1677 HP TO 1 WW
+id: 1695 News TO 12 WW
+id: 1722 Spors TO 21 WW
+
+20Cedi 
+id: 720 IO
+id: 1680 HP TO 1
+id: 1755 Ent TO 41
+id: 1809 Mob TO 316
+id: 1812 News TO 12
+id: 1839 Sports TO 21
+
+FirstAtlantic Flexypay
+id: 723 IO
+id: 1683 Bus TO 32
+id: 1710 Ent TO 41
+id: 1719 Mob TO 316
+
+MaltaGuiness
+id: 726
+id: 1701 Ent TO 41
+
+LegacyFinancial
+id: 729
+id: 1704 Bus TO 32
+
+Manifestives
+id: 732
+id: 1725 Opions TO 62
+id: 1728 Ent TO 41
+
+UMB
+id: 738
+id: 1749 HP TO 1????
+
+Featha
+id: 741
+id: 1746 HP TO 1
+id: 1752 Bus TO 32
+id: 1791 Ent TO 41
+id: 1803 News TO 12
+
+GIL
+id: 744
+id: 1749 Bus TO 32
+id: 1758 Ent TO 41
+id: 1764 HP TO 1
+id: 1788 Mob TO 316
+
+UMB-Disclaimer
+id: 747
+id: 1770 Ent TO 41
+id: 1773 News TO 12
+id: 1842 HP TO 1
+Id:1875 Mob TO 316
+
+MYCaesar
+id: 750
+id: 1800 Mob TO 316
+id: 1854 HP TO 1
+
+MacDic
+id: 753
+id: 1806 News TO 12
+id: 1824 Bus TO 32
+
+Krif Jan18: 
+id: 756
+id: 1815 Bus TO 32
+
+Soccabet
+id: 759
+id: 1821 Sports TO 21
+id: 1830 mob TO 316
+
+SoccabetFixedbanner
+id: 762
+id: 1827 sportsfixed 25
+
+Newmont dec17
+id: 765
+id: 1836 HP TO 1
+
+GCB Systems
+id: 768
+id: 1773 Mob TO 316
+
+Widi Locks(old)
+id: 774
+id: 1857 Bus TO 32
+id: 1860 Mob TO 316
+
+
+Widi Locks
+id: 774
+id: 1857 Bus TO 32
+id: 1860 Mob TO 316
+id: 1869 News TO 12 WW
+
+EKBlackOpal Chr Savior
+id: 777
+id: 1866 Bus TO 32
+
+ Devtraco Jan18(new)
+ id:1872 News N12 (WW)
+ 
+
+INSERT INTO `insertion_orders` (`publisher_id`, `order_campaign_name`, `status`, `usdghs_rate`, `amount`, `vat`, `discount`, `signature`, `agent_id`, `commission`, `commission_payment_status`, `created_date`, `client_id`, `note`, `longitude`, `latitude`, `precision`, `start_requested`, `imk_cloud_account_id`) VALUES (2, 'Campaign', 'P', 0, 0, 0, 0, NULL, 1, 0, 'pending', '2017-04-24 11:19:20', 0, NULL, NULL, NULL, NULL, 0, 0);
+INSERT INTO `ads` (`channel_section_ad_unit_id`, `insertion_order_id`, `geo_targets`, `cpm_rate`, `rate`, `peak`, `start_date`, `end_date`, `created_date`, `status`, `discount`) VALUES (13, 442, 'GH', 0, 0, 'F', '2017-01-28', '2017-07-31', '2017-01-28 10:03:31', 'A', 0);
+
+
+
